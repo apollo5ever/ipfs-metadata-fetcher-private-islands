@@ -1,0 +1,16 @@
+{
+  "name": "ipfs-metadata-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs": "^0.64.2",
+    "ipfs-http-client": "^58.0.1",
+    "node-fetch-commonjs": "^3.2.4"
+  }
+}
